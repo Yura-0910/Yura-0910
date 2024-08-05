@@ -1,4 +1,34 @@
-## Hi there 👋
+## About me
+```Java
+    Developer Yura-0910 = new Developer() {
+      @Override
+      public void about() {
+        logger.info("Юра Мазуров");
+      }
+
+      @Override
+      public void tech() {
+        logger.info("Java");
+        logger.info("Multithreading");
+        logger.info("Java Collections Framework");
+        logger.info("Stream");
+        logger.info("Spring Core");
+        logger.info("PostgreSQL");
+      }
+
+      @Override
+      public void contacts() {
+        logger.info("Telegram: https://t.me/Yura0910");
+        logger.info("Email: mazurovyura09@yandex.ru");
+      }
+
+      @Override
+      public void education() {
+        logger.info("Московский Государственный Технический Университет Гражданской Авиации");
+        logger.info("Кафедра: Прикладная Математика");
+      }
+    };
+```
 
 <!-- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yura-0910)](https://github.com/ashutosh00710/github-readme-activity-graph)
