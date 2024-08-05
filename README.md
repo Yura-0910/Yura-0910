@@ -1,8 +1,13 @@
 ## Hi there 👋
 
+<!-- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yura-0910)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
-![](https://komarev.com/ghpvc/?username=Yura-0910)
+<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/lainerSource?ext=activity)](https://leetcode.com/lainerSource) -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lainerSource)](https://leetcode.com/JacobLinCool)
+
+![](https://komarev.com/ghpvc/?username=Yura-0910&color=blue)
 
 <!--
 **Yura-0910/Yura-0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
