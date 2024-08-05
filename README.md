@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Yura-0910)](https://github.com/KnlnKS/leetcode-stats)
+![](https://komarev.com/ghpvc/?username=Yura-0910)
 
 <!--
 **Yura-0910/Yura-0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
