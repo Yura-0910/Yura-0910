@@ -13,6 +13,7 @@
         logger.info("Java Collections Framework");
         logger.info("Stream");
         logger.info("Spring Core");
+        logger.info("Spring Security");
         logger.info("PostgreSQL");
       }
 
