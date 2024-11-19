@@ -15,6 +15,7 @@
         logger.info("Spring Core");
         logger.info("Spring Security");
         logger.info("PostgreSQL");
+        logger.info("SOLID, DRY, KISS");
       }
 
       @Override
